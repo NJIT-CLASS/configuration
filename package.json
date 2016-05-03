@@ -1,0 +1,23 @@
+{
+  "name": "capstone-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exampleFallbackSettings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJIT-CLASS/Configuration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NJIT-CLASS/Configuration/issues"
+  },
+  "homepage": "https://github.com/NJIT-CLASS/Configuration#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "redis": "^2.6.0-2"
+  }
+}
